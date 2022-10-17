@@ -1,6 +1,6 @@
 # ToupleGDD
 
-Implementation of "ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning" (Arxiv link)
+Implementation of "ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning" (https://arxiv.org/abs/2210.07500)
 
 Run the code
 ------------
@@ -74,7 +74,7 @@ Please cite our work if you find our code/paper is useful to your work.
 	@article{chen2022touplegdd,
       title={ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning},
       author={Chen, Tiantian and Yan, Siwen and Guo, Jianxiong and Wu, Weili},
-      journal={arXiv preprint arXiv:remember to update},
+      journal={arXiv preprint arXiv:2210.07500},
       year={2022}
     }
 
